@@ -12,3 +12,8 @@
 
 This repository documents my structured cybersecurity learning journey,
 starting with strong foundations in Networking and Linux.
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandan3669&color=8B0000&style=flat-square">
+</p>
