@@ -1,7 +1,7 @@
 <h1 align="center">CyberSec Journey</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700"/>
+  <img src="https://tenor.com/view/arabic-gamer-hacker-meme-gif-22683548" width="600"/>
 </p>
 
 <p align="center">
