@@ -10,10 +10,60 @@
 
 ---
 
-This repository documents my structured cybersecurity learning journey,
-starting with strong foundations in Networking and Linux.
+## 🛡️ CyberSec Journey | Cyber Peace Corps - KIIT
+
+### 👤 About Me
+
+| Field | Details |
+|-------|---------|
+| Name | Chandan |
+| University | KIIT University |
+| Year | 2nd Year |
+| Branch | Computer Science and Engineering |
+| Society | Cyber Peace Corps |
+| Domain | Rotational (To be assigned) |
+| TryHackMe | https://tryhackme.com/p/cb8583646 |
+| LinkedIn | https://www.linkedin.com/in/chandan-barman-cybersecurity/ |
 
 ---
+
+## 📌 About This Repository
+
+This repository documents my structured cybersecurity learning journey,  
+starting with strong foundations in:
+
+- 🌐 Networking  
+- 🐧 Linux  
+- 🔐 Cybersecurity Fundamentals  
+
+---
+
+## 🎯 Goals
+
+- Build strong fundamentals  
+- Solve real-world security challenges  
+- Maintain structured notes & documentation  
+- Complete TryHackMe labs & CTF challenges  
+
+---
+
+## 🚀 Current Progress
+
+- ✅ Cycle 01: Networking Basics  
+- 🔄 Linux Fundamentals (In Progress)  
+- ⏳ Upcoming: Web Security, Cryptography  
+
+---
+
+## 📂 Repository Structure
+
+- /notes  
+- /tryhackme  
+- /bandit  
+- /projects  
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chandan3669&color=8B0000&style=flat-square">
 </p>
